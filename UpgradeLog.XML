@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DynamicQueries">
+</Property><Property Name="Solution File" Value="C:\Users\Richard\Documents\DynamicQueries\DynamicQueries.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Richard\Documents\DynamicQueries\DynamicQueries.suo">
+</Property><Property Name="Date" Value="July-22-09">
+</Property><Property Name="Time" Value="20:58 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DynamicQueries.sln" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicQueries.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DynamicQueries.suo" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicQueries.suo">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\NorthwindApp.vbproj" Description="Project file successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\NorthwindApp.vbproj">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\NorthwindApp.vbproj.user" Description="Project user file successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\NorthwindApp.vbproj.user">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\myDataset.Designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\myDataset.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\myDataset.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\myDataset.vb">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\Form1.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\Form1.vb">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\Form1.Designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\Northwind.designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\Northwind.designer.vb">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\Northwind.dbml.layout" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\Northwind.dbml.layout">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\app.config" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\app.config">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\myDataset.xsc" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\myDataset.xsc">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\myDataset.xsd" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\myDataset.xsd">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\myDataset.xss" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\myDataset.xss">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\Northwind.dbml" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\Northwind.dbml">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\Form1.resx" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\Form1.resx">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\NorthwindApp\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\NorthwindApp.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NorthwindApp" Source="NorthwindApp\NorthwindApp.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\DynamicCondition.vbproj" Description="Project file successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\DynamicCondition.vbproj">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\DynamicCondition.vbproj.user" Description="Project user file successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\DynamicCondition.vbproj.user">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\Condition.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\Condition.vb">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\ConditionBuilder.Designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\ConditionBuilder.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\ConditionBuilder.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\ConditionBuilder.vb">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\ConditionBuilderDesigner.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\ConditionBuilderDesigner.vb">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\ConditionLine.Designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\ConditionLine.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\ConditionLine.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\ConditionLine.vb">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\ConditionBuilder.resx" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\ConditionBuilder.resx">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\ConditionLine.resx" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\ConditionLine.resx">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Richard\Documents\DynamicQueries\Backup\DynamicCondition\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\DynamicCondition.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DynamicCondition" Source="DynamicCondition\DynamicCondition.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DynamicQueries.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DynamicQueries.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NorthwindApp" Source="NorthwindApp\NorthwindApp.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DynamicCondition" Source="DynamicCondition\DynamicCondition.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
